@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![welcome](https://s6.uupload.ir/files/screenshot_(169)_fu7u.png)
+
 ### 👋 Hey! Welcome to my GitHub!
 
 A computer engineering student who loves learning and coding! 🚀
