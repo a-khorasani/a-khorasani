@@ -42,7 +42,7 @@ A computer engineering student who loves learning and coding! 🚀
 
 ---
 
-### 🚀 My Projects:
+### 🚀 My Last Projects:
 
 - **Calculating Cardiac Ejection Fraction Using Echocardiography Image Segmentation** 🏥  
   (Medical image analysis using U-Net and EF calculation)
