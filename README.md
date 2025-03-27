@@ -31,25 +31,25 @@ A computer engineering student who loves learning and coding! 🚀
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0077B5?style=for-the-badge&logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=deeplearning&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-5C3EE8?style=for-the-badge&logo=data&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ### 🚀 My Projects:
 
-- **Speech Emotion Recognition** 🎙️  
+- **Calculating Cardiac Ejection Fraction Using Echocardiography Image Segmentation** 🏥  
+  (Medical image analysis using U-Net and EF calculation)
+
+- **Emotion Recognition from Persian Speech** 🎙️  
   (Processing audio signals with deep learning and neural networks!)
   
-- **Echocardiography Image Segmentation** 🏥  
-  (Medical image analysis using U-Net and EF calculation)
-  
-- **Book Recommendation Chatbot** 📚  
-  (An intelligent chatbot that suggests books based on a vector database!)
+- **Handwritten Digits Images Generator** 📚  
+  (Generating realistic handwritten digit images using a GAN model!)
 
 ---
 
@@ -67,7 +67,7 @@ Or for GIF:
 ### 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-mahjoub-015633274/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makh8231a@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](Your_Telegram_Link)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/makh_8231a)
 
 ---
 
