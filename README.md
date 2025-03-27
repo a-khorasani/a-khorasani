@@ -55,8 +55,6 @@ A computer engineering student who loves learning and coding! 🚀
 
 ---
 
----
-
 ### 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-mahjoub-015633274/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makh8231a@gmail.com)
