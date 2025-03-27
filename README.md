@@ -55,15 +55,6 @@ A computer engineering student who loves learning and coding! 🚀
 
 ---
 
-### 📸 Image or GIF Placeholder (Add later if you want!):
-```md
-![Image Description](Image_Link)
-```
-Or for GIF:
-```md
-<img src="GIF_Link" width="400" />
-```
-
 ---
 
 ### 📬 Connect with Me:
