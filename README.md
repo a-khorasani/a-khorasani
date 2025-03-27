@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### 👋 Hey! Welcome to my GitHub!
 
-A computer engineer who loves learning and coding! 🚀
+A computer engineering student who loves learning and coding! 🚀
 
 ---
 
 ### 💡 About Me:
 - 🎓 Computer Engineering Student
-- 🤖 Passionate about AI, Deep Learning, and Brain Signal Processing
+- 🤖 Passionate about AI, Deep Learning, and everything related to it.
 - 🔍 Always looking for new challenges and learning opportunities!
 - 📚 A tech and book enthusiast
 
@@ -31,6 +31,11 @@ A computer engineer who loves learning and coding! 🚀
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0077B5?style=for-the-badge&logo=ai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-5C3EE8?style=for-the-badge&logo=data&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
